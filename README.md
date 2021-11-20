@@ -1,4 +1,4 @@
-# Trapper Turtle Honeypot
+# Trapper Turtle Honey pot
 ***
 # ![alt](image.ico)
 
@@ -19,5 +19,5 @@ pip install requirements.py
 python main.py
 ```
 
-* Через TrapperTurtleHa.bat (Просто запустите его)
+* Через TrapperTurtleHoneyPot.bat (Просто запустите его)
 
